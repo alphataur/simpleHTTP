@@ -1,0 +1,24 @@
+{
+  "name": "simplehttp",
+  "version": "1.0.0",
+  "description": "a simple http client for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphataur/simpleHTTP.git"
+  },
+  "keywords": [
+    "http",
+    "client",
+    "node"
+  ],
+  "author": "Nikhil Surya Mukhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphataur/simpleHTTP/issues"
+  },
+  "homepage": "https://github.com/alphataur/simpleHTTP#readme"
+}
